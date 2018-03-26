@@ -6,7 +6,7 @@ Die Informationen in diesem Verzeichnis wurden nicht durch die ECB vorgenommen. 
 
 Kopie der Urheberrechtsinformation der ECB:
 
-Vorbehaltlich der unten aufgeführten Ausnahme stehen den Nutzern dieser Website die direkt von dieser Website abgerufenen Informationen **unter den folgenden Bedingungen zur freien Verfügung**:
+Vorbehaltlich der unten aufgeführten Ausnahme stehen den Nutzern dieser Website die direkt von der ECB-Website abgerufenen Informationen **unter den folgenden Bedingungen zur freien Verfügung**:
 
 Wenn diese Informationen verbreitet oder vervielfältigt werden, müssen sie fehlerfrei wiedergegeben werden und die EZB muss als Quelle angegeben werden.
 
