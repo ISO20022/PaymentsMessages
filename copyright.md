@@ -6,10 +6,11 @@ Die Informationen in diesem Verzeichnis wurden nicht durch die ECB vorgenommen. 
 
 Kopie der Urheberrechtsinformation der ECB:
 
-Vorbehaltlich der unten aufgeführten Ausnahme stehen den Nutzern dieser Website die direkt von dieser Website abgerufenen Informationen unter den folgenden Bedingungen zur freien Verfügung:
+Vorbehaltlich der unten aufgeführten Ausnahme stehen den Nutzern dieser Website die direkt von dieser Website abgerufenen Informationen **unter den folgenden Bedingungen zur freien Verfügung**:
 
-    Wenn diese Informationen verbreitet oder vervielfältigt werden, müssen sie fehlerfrei wiedergegeben werden und die EZB muss als Quelle angegeben werden.
-    Falls die Informationen in kostenpflichtige Dokumente (unabhängig vom Medium) übernommen werden, muss die natürliche oder juristische Person, die die Informationen veröffentlicht, die Käufer vor dem Abschluss eines Abonnements oder der Zahlung einer Gebühr und jedes Mal, wenn sie die von dieser Website stammenden Informationen abrufen, darüber aufklären, dass die Informationen auf dieser Website kostenfrei erhältlich sind.
+Wenn diese Informationen verbreitet oder vervielfältigt werden, müssen sie fehlerfrei wiedergegeben werden und die EZB muss als Quelle angegeben werden.
+
+Falls die Informationen in kostenpflichtige Dokumente (unabhängig vom Medium) übernommen werden, muss die natürliche oder juristische Person, die die Informationen veröffentlicht, die Käufer vor dem Abschluss eines Abonnements oder der Zahlung einer Gebühr und jedes Mal, wenn sie die von dieser Website stammenden Informationen abrufen, darüber aufklären, dass die Informationen auf dieser Website kostenfrei erhältlich sind.
     Wenn die Informationen vom Nutzer verändert werden (z. B. Saisonbereinigung statistischer Daten oder Berechnung von Wachstumsraten), ist ausdrücklich darauf hinzuweisen.
     Wenn auf Websites, die geschäftlichen Zwecken dienen, oder für Werbezwecke Links zu dieser Website eingerichtet werden, muss diese Website im gesamten Browser-Fenster geladen werden (d. h. sie darf nicht innerhalb des Rahmens einer anderen Website wiedergegeben werden).
 
